@@ -1,2 +1,2 @@
 # GitHub demo Test
-# My first repoetry
+# My first repositorie
